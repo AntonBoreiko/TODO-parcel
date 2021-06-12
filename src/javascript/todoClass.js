@@ -30,7 +30,6 @@ class Todo {
 
   constructor() {
     this.init()
-
   }
   init() {
     this.formElement.addEventListener('submit', this.handleSubmit.bind(this))
@@ -89,7 +88,7 @@ class Todo {
       <span class= "calc-star">${Obj.createStar}</span>
       <button  data-id="${Obj.id}" class="remove-button">🗑</button></div>
       </li>
-   `
+    `
     return template
   }
 

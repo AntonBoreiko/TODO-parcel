@@ -1,5 +1,10 @@
-// import './todoClass'
-import './hello'
+import './todoClass.js'
+// import './hello'
+
+
+
+
+
 console.log('домашка')
 
 
