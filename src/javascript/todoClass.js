@@ -1,6 +1,3 @@
-console.info('HEllo')
-
-
 
 class Todo {
   data = localStorage.getItem('data') ? JSON.parse(localStorage.getItem('data')) : []
