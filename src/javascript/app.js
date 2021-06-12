@@ -1,4 +1,4 @@
-import './todoClass'
+// import './todoClass'
 
 console.log('домашка')
 
