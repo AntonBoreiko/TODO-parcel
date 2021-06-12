@@ -1,4 +1,4 @@
-# Bolierplate parcel.js
+# TODO parcel.js
 
 
 1. `git clone https://github.com/AntonBoreiko/bolierplate-parcel.git`
