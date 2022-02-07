@@ -1,0 +1,174 @@
+* {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.main {
+  padding: 40px 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: #fbfefc;
+  margin: 30px 0px;
+}
+
+.container {
+  max-width: 1180px;
+  margin: 0px auto;
+}
+
+.main__item {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.main__title-but {
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-bottom: 2px solid gray;
+}
+
+#open-form {
+  background: blue;
+  color: #fff;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+  margin-left: 10px;
+}
+
+#open-mainForm {
+  background: #10db2d;
+  left: 0px auto;
+  color: #fff;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+  margin-left: 10px;
+}
+
+#form-search {
+  padding: 15px 0px;
+  border-bottom: 2px solid gray;
+}
+
+.main__form-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.open {
+  display: block;
+}
+
+.close {
+  display: none;
+}
+
+#search {
+  height: 40px;
+  width: 50%;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+}
+
+#sort {
+  height: 40px;
+  width: 49%;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+}
+
+#form {
+  border-bottom: 2px solid gray;
+  padding: 15px 0px;
+  margin-bottom: 15px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+  border-bottom: 2px solid gray;
+  font-size: 22px;
+}
+
+.span-title {
+  width: 80%;
+}
+
+#delete {
+  display: inline;
+  text-align: center;
+}
+
+#title {
+  height: 40px;
+  width: 30%;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+}
+
+#estimate {
+  height: 40px;
+  width: 30%;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+}
+
+#priority {
+  width: 15%;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+}
+
+#submit {
+  background: blue;
+  color: #fff;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+  margin-left: 10px;
+}
+
+#cancel {
+  background: #f31442;
+  color: #fff;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 0px 20px;
+  margin-left: 10px;
+}
+
+.remove-button {
+  background: red;
+  color: #000;
+  height: 40px;
+  font-size: 24px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+.div-estimate {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=/app.a651375d.css.map */
